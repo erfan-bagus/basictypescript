@@ -1,0 +1,2 @@
+{"/run/media/hatori/master/.private/padjson/src/index.ts": {"path":"/run/media/hatori/master/.private/padjson/src/index.ts","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":17}},"1":{"start":{"line":1,"column":0},"end":{"line":1,"column":16}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":19}},"loc":{"start":{"line":1,"column":40},"end":{"line":3,"column":1}}}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{}}
+}
